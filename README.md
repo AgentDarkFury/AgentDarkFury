@@ -1,6 +1,6 @@
 <img width="1491" height="686" alt="image" src="https://github.com/user-attachments/assets/4ecab838-6116-486e-be7d-ceb629c5f2aa" />
 
-## Hi there 👋
+## Don't stop dreaming
 
 <!--
 **AgentDarkFury/AgentDarkFury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
